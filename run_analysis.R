@@ -30,6 +30,7 @@ rc<-gsub('Gyro','Gyroscope',rc)
 rc<-gsub('Mag','Magnitude',rc)
 rc<-gsub('mean','Mean',rc)
 rc<-gsub('std','Std',rc)
+rc<-gsub('BodyBody','Body',rc)
 
 ##merging subject, activity and measurements data
 colnames(S)<-c('subjectID')
