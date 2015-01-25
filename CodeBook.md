@@ -71,6 +71,7 @@
 [59] frequencyBodyGyroscopeStdY                 
 [60] frequencyBodyGyroscopeStdZ                 
 [61] frequencyBodyAccelerometerMagnitudeMean
+
 [62] frequencyBodyAccelerometerMagnitudeStd
 
 [63] frequencyBodyAccelerometerJerkMagnitudeMean
