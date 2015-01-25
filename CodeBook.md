@@ -1,6 +1,6 @@
-All columns are numerics, except for activity column which is a factor (in the script, but string of characters in the file).
+####All columns are numerics, except for activity column which is a factor (in the script, but string of characters in the file).
 
-The tidy data set have the average of each variable for each activity and each subject.
+####The tidy data set have the average of each variable for each activity and each subject.
 
  [1] subjectID        
 	The ID of the subject in the discrete range of [1,30].
