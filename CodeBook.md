@@ -71,10 +71,10 @@
 [59] frequencyBodyGyroscopeStdY                 
 [60] frequencyBodyGyroscopeStdZ                 
 [61] frequencyBodyAccelerometerMagnitudeMean    
-[62] frequencyBodyAccelerometerMagnitudeStd     
+[62] frequencyBodyAccelerometerMagnitudeStd
 [63] frequencyBodyAccelerometerJerkMagnitudeMean
 [64] frequencyBodyAccelerometerJerkMagnitudeStd 
-[65] frequencyBodyGyroscopeMagnitudeMean        
+[65] frequencyBodyGyroscopeMagnitudeMean
 [66] frequencyBodyGyroscopeMagnitudeStd         
 [67] frequencyBodyGyroscopeJerkMagnitudeMean    
 [68] frequencyBodyGyroscopeJerkMagnitudeStd 
