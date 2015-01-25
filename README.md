@@ -12,5 +12,5 @@
 ##Merging and Writing the Tidy Data Set:
 * Binded the test and training data for cleaned activities (newY), subjects (S) and clean feature vectors (newX).
 * Binded the cleaned activities, subjects and clean feature vectors into a data set (Data).
-* Took the average of each variable for each activity and each subject with tidy<-aggregate(Data[,3:ncol(Data)],by=list(Data[,1],Data[,2]),FUN=mean)
+* Took the average of each variable for each activity and each subject with: tidy<-aggregate(Data[,3:ncol(Data)],by=list(Data[,1],Data[,2]),FUN=mean)
 * Wrote the data to a file with: write.table(tidy,'./tidyDataSet.txt',row.names=F)
